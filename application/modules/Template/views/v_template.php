@@ -59,7 +59,7 @@
                     <ul class="navbar-mobile__list list-unstyled">
                         <li>
                             <a href="<?php echo base_url() . "index.php/home"; ?>">
-                                <i class="fas fa-chart-bar"></i>Data Transaksi</a>
+                                <i class="fas fa-folder"></i>Data Transaksi</a>
                         </li>
                         <li>
                             <a href="<?php echo base_url() . "index.php/barang"; ?>">
@@ -87,7 +87,7 @@
                         </li>
                         <li>
                             <a href="<?php echo base_url() . "index.php/barang"; ?>">
-                                <i class="fas fa-chart-bar"></i>Data Barang</a>
+                                <i class="fas fa-folder"></i>Data Barang</a>
                         </li>
                     </ul>
                 </nav>
